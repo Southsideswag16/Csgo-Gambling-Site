@@ -35,6 +35,6 @@ Please read [CONTRIBUTING.md](https://github.com/ztizzlegaming/csgo-win-big/blob
 
 ### How can I donate to this project?
 Donations are not necessary, but are greatly appreciated and help us out a lot. There are three ways you can donate:
-* Send a trade offer [here]https://steamcommunity.com/tradeoffer/new/?partner=434934932&token=P5idnp0c) with skin donations.
+* Send a trade offer [here](https://steamcommunity.com/tradeoffer/new/?partner=434934932&token=P5idnp0c) with skin donations.
 * Send actual money through PayPal  [here](paypal.me/Southsideswag16).
 * Send Bitcoin to this address: 1JsmMYgPmr4HapEAVt1K5jfMkbefvSwDhH 
